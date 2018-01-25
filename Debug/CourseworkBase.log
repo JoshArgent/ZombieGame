@@ -1,0 +1,118 @@
+﻿Build started 02/05/2017 14:50:34.
+     1>Project "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\src\CourseworkBase.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         F:\Software\Visual Studio\VC\bin\CL.exe /c /I..\SDL\include /ZI /nologo /W1 /WX- /Od /Oy- /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\\" /Fd"C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\vc120.pdb" /FR"C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\\" /Gd /TP /analyze- /errorReport:prompt BulletObject.cpp Button.cpp CoinObject.cpp CoinZombieObject.cpp CollectableObject.cpp Coordinate.h DiedState.cpp GameoverState.cpp HealthBarObject.cpp HeartObject.cpp HeartZombieObject.cpp HelperFunctions.cpp HelpState.cpp mainfunction.cpp BaseEngine.cpp DisplayableObject.cpp FontManager.cpp JPGImage.cpp Map.cpp MenuState.cpp NormalZombieObject.cpp PauseState.cpp PlayerObject.cpp PlayState.cpp Polygon.cpp Psyja2Engine.cpp Psyja2TileManager.cpp Round.cpp RoundCompleteState.cpp SimpleDemo.cpp SpriteManager.cpp State.cpp TileManager.cpp BouncingBall.cpp BouncingBallMain.cpp Demo1Main.cpp Demo2Main.cpp Demo2Object.cpp Demo2TileManager.cpp Demo3Main.cpp Demo3Object.cpp Demo3ObjectFinished.cpp Demo3TileManager.cpp Demo4Main.cpp Demo4Object.cpp Demo4TileManager.cpp TileObject.cpp ZombieObject.cpp
+         BulletObject.cpp
+         Button.cpp
+         CoinObject.cpp
+         CoinZombieObject.cpp
+         CollectableObject.cpp
+         Coordinate.h
+         DiedState.cpp
+         GameoverState.cpp
+         HealthBarObject.cpp
+         HeartObject.cpp
+         HeartZombieObject.cpp
+         HelperFunctions.cpp
+         HelpState.cpp
+         mainfunction.cpp
+         BaseEngine.cpp
+         DisplayableObject.cpp
+         FontManager.cpp
+         JPGImage.cpp
+         Map.cpp
+         MenuState.cpp
+         Generating Code...
+         Compiling...
+         NormalZombieObject.cpp
+         PauseState.cpp
+         PlayerObject.cpp
+         PlayState.cpp
+         Polygon.cpp
+         Psyja2Engine.cpp
+         Psyja2TileManager.cpp
+         Round.cpp
+         RoundCompleteState.cpp
+         SimpleDemo.cpp
+         SpriteManager.cpp
+         State.cpp
+         TileManager.cpp
+         BouncingBall.cpp
+         BouncingBallMain.cpp
+         Demo1Main.cpp
+         Demo2Main.cpp
+         Demo2Object.cpp
+         Demo2TileManager.cpp
+         Demo3Main.cpp
+         Generating Code...
+         Compiling...
+         Demo3Object.cpp
+         Demo3ObjectFinished.cpp
+         Demo3TileManager.cpp
+         Demo4Main.cpp
+         Demo4Object.cpp
+         Demo4TileManager.cpp
+         TileObject.cpp
+         ZombieObject.cpp
+         Generating Code...
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /l"0x0409" /nologo /fo"C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\CourseworkBase.res" CourseworkBase.rc 
+       Link:
+         F:\Software\Visual Studio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\CourseworkBase.exe" /NOLOGO /LIBPATH:..\SDL\libx86 SDL2.lib SDL2main.lib SDL2_image.lib SDL2_ttf.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\CourseworkBase.pdb" /MAP:"map" /SUBSYSTEM:CONSOLE /TLBID:1 /ENTRY:"mainCRTStartup" /DYNAMICBASE:NO /IMPLIB:"C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\CourseworkBase.lib" /MACHINE:X86 /SAFESEH "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\CourseworkBase.res"
+         "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\BulletObject.obj"
+         "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\Button.obj"
+         "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\CoinObject.obj"
+         "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\CoinZombieObject.obj"
+         "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\CollectableObject.obj"
+         "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\Coordinate.obj"
+         "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\DiedState.obj"
+         "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\GameoverState.obj"
+         "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\HealthBarObject.obj"
+         "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\HeartObject.obj"
+         "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\HeartZombieObject.obj"
+         "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\HelperFunctions.obj"
+         "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\HelpState.obj"
+         "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\mainfunction.obj"
+         "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\BaseEngine.obj"
+         "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\DisplayableObject.obj"
+         "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\FontManager.obj"
+         "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\JPGImage.obj"
+         "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\Map.obj"
+         "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\MenuState.obj"
+         "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\NormalZombieObject.obj"
+         "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\PauseState.obj"
+         "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\PlayerObject.obj"
+         "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\PlayState.obj"
+         "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\Polygon.obj"
+         "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\Psyja2Engine.obj"
+         "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\Psyja2TileManager.obj"
+         "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\Round.obj"
+         "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\RoundCompleteState.obj"
+         "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\SimpleDemo.obj"
+         "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\SpriteManager.obj"
+         "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\State.obj"
+         "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\TileManager.obj"
+         "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\BouncingBall.obj"
+         "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\BouncingBallMain.obj"
+         "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\Demo1Main.obj"
+         "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\Demo2Main.obj"
+         "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\Demo2Object.obj"
+         "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\Demo2TileManager.obj"
+         "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\Demo3Main.obj"
+         "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\Demo3Object.obj"
+         "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\Demo3ObjectFinished.obj"
+         "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\Demo3TileManager.obj"
+         "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\Demo4Main.obj"
+         "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\Demo4Object.obj"
+         "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\Demo4TileManager.obj"
+         "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\TileObject.obj"
+         "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\ZombieObject.obj"
+     1>BulletObject.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+         CourseworkBase.vcxproj -> C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\CourseworkBase.exe
+       BscMake:
+         F:\Software\Visual Studio\VC\bin\bscmake.exe /nologo /o"C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\CourseworkBase.bsc" "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\BulletObject.sbr" "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\Button.sbr" "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\CoinObject.sbr" "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\CoinZombieObject.sbr" "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\CollectableObject.sbr" "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\Coordinate.sbr" "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\DiedState.sbr" "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\GameoverState.sbr" "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\HealthBarObject.sbr" "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\HeartObject.sbr" "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\HeartZombieObject.sbr" "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\HelperFunctions.sbr" "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\HelpState.sbr" "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\mainfunction.sbr" "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\BaseEngine.sbr" "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\DisplayableObject.sbr" "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\FontManager.sbr" "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\JPGImage.sbr" "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\Map.sbr" "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\MenuState.sbr" "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\NormalZombieObject.sbr" "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\PauseState.sbr" "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\PlayerObject.sbr" "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\PlayState.sbr" "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\Polygon.sbr" "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\Psyja2Engine.sbr" "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\Psyja2TileManager.sbr" "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\Round.sbr" "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\RoundCompleteState.sbr" "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\SimpleDemo.sbr" "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\SpriteManager.sbr" "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\State.sbr" "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\TileManager.sbr" "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\BouncingBall.sbr" "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\BouncingBallMain.sbr" "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\Demo1Main.sbr" "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\Demo2Main.sbr" "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\Demo2Object.sbr" "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\Demo2TileManager.sbr" "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\Demo3Main.sbr" "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\Demo3Object.sbr" "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\Demo3ObjectFinished.sbr" "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\Demo3TileManager.sbr" "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\Demo4Main.sbr" "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\Demo4Object.sbr" "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\Demo4TileManager.sbr" "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\TileObject.sbr" "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Debug\ZombieObject.sbr"
+     1>Done Building Project "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\src\CourseworkBase.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:14.22

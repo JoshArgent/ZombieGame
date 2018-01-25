@@ -1,0 +1,115 @@
+﻿Build started 15/05/2017 10:25:56.
+     1>Project "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\src\CourseworkBase.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         F:\Software\Visual Studio\VC\bin\CL.exe /c /I..\SDL\include /Zi /nologo /W1 /WX- /O2 /Oy- /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Release\\" /Fd"C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt BulletObject.cpp Button.cpp CoinObject.cpp CoinZombieObject.cpp CollectableObject.cpp Coordinate.h DiedState.cpp GameoverState.cpp HealthBarObject.cpp HeartObject.cpp HeartZombieObject.cpp HelperFunctions.cpp HelpState.cpp mainfunction.cpp BaseEngine.cpp DisplayableObject.cpp FontManager.cpp JPGImage.cpp Map.cpp MenuState.cpp NormalZombieObject.cpp PauseState.cpp PlayerObject.cpp PlayState.cpp Polygon.cpp Psyja2Engine.cpp Psyja2TileManager.cpp Round.cpp RoundCompleteState.cpp SimpleDemo.cpp SpriteManager.cpp State.cpp TileManager.cpp BouncingBall.cpp BouncingBallMain.cpp Demo1Main.cpp Demo2Main.cpp Demo2Object.cpp Demo2TileManager.cpp Demo3Main.cpp Demo3Object.cpp Demo3ObjectFinished.cpp Demo3TileManager.cpp Demo4Main.cpp Demo4Object.cpp Demo4TileManager.cpp TileObject.cpp ZombieObject.cpp
+         BulletObject.cpp
+         Button.cpp
+         CoinObject.cpp
+         CoinZombieObject.cpp
+         CollectableObject.cpp
+         Coordinate.h
+         DiedState.cpp
+         GameoverState.cpp
+         HealthBarObject.cpp
+         HeartObject.cpp
+         HeartZombieObject.cpp
+         HelperFunctions.cpp
+         HelpState.cpp
+         mainfunction.cpp
+         BaseEngine.cpp
+         DisplayableObject.cpp
+         FontManager.cpp
+         JPGImage.cpp
+         Map.cpp
+         MenuState.cpp
+         Generating Code...
+         Compiling...
+         NormalZombieObject.cpp
+         PauseState.cpp
+         PlayerObject.cpp
+         PlayState.cpp
+         Polygon.cpp
+         Psyja2Engine.cpp
+         Psyja2TileManager.cpp
+         Round.cpp
+         RoundCompleteState.cpp
+         SimpleDemo.cpp
+         SpriteManager.cpp
+         State.cpp
+         TileManager.cpp
+         BouncingBall.cpp
+         BouncingBallMain.cpp
+         Demo1Main.cpp
+         Demo2Main.cpp
+         Demo2Object.cpp
+         Demo2TileManager.cpp
+         Demo3Main.cpp
+         Generating Code...
+         Compiling...
+         Demo3Object.cpp
+         Demo3ObjectFinished.cpp
+         Demo3TileManager.cpp
+         Demo4Main.cpp
+         Demo4Object.cpp
+         Demo4TileManager.cpp
+         TileObject.cpp
+         ZombieObject.cpp
+         Generating Code...
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /l"0x0409" /nologo /fo"C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Release\CourseworkBase.res" CourseworkBase.rc 
+       Link:
+         F:\Software\Visual Studio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Release\CourseworkBase.exe" /NOLOGO /LIBPATH:..\SDL\libx86 SDL2.lib SDL2main.lib SDL2_image.lib SDL2_ttf.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /NODEFAULTLIB:libcmt.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:"C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Release\CourseworkBase.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /ENTRY:"mainCRTStartup" /DYNAMICBASE:NO /IMPLIB:"C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Release\CourseworkBase.lib" /MACHINE:X86 /SAFESEH "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Release\CourseworkBase.res"
+         "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Release\BulletObject.obj"
+         "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Release\Button.obj"
+         "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Release\CoinObject.obj"
+         "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Release\CoinZombieObject.obj"
+         "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Release\CollectableObject.obj"
+         "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Release\Coordinate.obj"
+         "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Release\DiedState.obj"
+         "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Release\GameoverState.obj"
+         "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Release\HealthBarObject.obj"
+         "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Release\HeartObject.obj"
+         "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Release\HeartZombieObject.obj"
+         "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Release\HelperFunctions.obj"
+         "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Release\HelpState.obj"
+         "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Release\mainfunction.obj"
+         "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Release\BaseEngine.obj"
+         "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Release\DisplayableObject.obj"
+         "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Release\FontManager.obj"
+         "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Release\JPGImage.obj"
+         "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Release\Map.obj"
+         "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Release\MenuState.obj"
+         "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Release\NormalZombieObject.obj"
+         "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Release\PauseState.obj"
+         "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Release\PlayerObject.obj"
+         "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Release\PlayState.obj"
+         "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Release\Polygon.obj"
+         "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Release\Psyja2Engine.obj"
+         "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Release\Psyja2TileManager.obj"
+         "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Release\Round.obj"
+         "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Release\RoundCompleteState.obj"
+         "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Release\SimpleDemo.obj"
+         "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Release\SpriteManager.obj"
+         "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Release\State.obj"
+         "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Release\TileManager.obj"
+         "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Release\BouncingBall.obj"
+         "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Release\BouncingBallMain.obj"
+         "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Release\Demo1Main.obj"
+         "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Release\Demo2Main.obj"
+         "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Release\Demo2Object.obj"
+         "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Release\Demo2TileManager.obj"
+         "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Release\Demo3Main.obj"
+         "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Release\Demo3Object.obj"
+         "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Release\Demo3ObjectFinished.obj"
+         "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Release\Demo3TileManager.obj"
+         "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Release\Demo4Main.obj"
+         "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Release\Demo4Object.obj"
+         "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Release\Demo4TileManager.obj"
+         "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Release\TileObject.obj"
+         "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Release\ZombieObject.obj"
+         CourseworkBase.vcxproj -> C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\/Release\CourseworkBase.exe
+     1>Done Building Project "C:\Users\Josh\Dropbox\Computer Science\g52cpp\CPP_CW2016\src\CourseworkBase.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:11.51
